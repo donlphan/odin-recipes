@@ -1,0 +1,17 @@
+* {
+    background-color: lightblue;    
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+ul {
+    padding: 0px;
+    font-size: .75cm;
+}
